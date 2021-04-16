@@ -1,0 +1,12 @@
+C:\Users\LITSI\source\repos\PROGRAMANOTA\PROGRAMANOTA\bin\Debug\PROGRAMANOTA.exe.config
+C:\Users\LITSI\source\repos\PROGRAMANOTA\PROGRAMANOTA\bin\Debug\PROGRAMANOTA.exe
+C:\Users\LITSI\source\repos\PROGRAMANOTA\PROGRAMANOTA\bin\Debug\PROGRAMANOTA.pdb
+C:\Users\LITSI\source\repos\PROGRAMANOTA\PROGRAMANOTA\bin\Debug\PROGRAMANOTA.xml
+C:\Users\LITSI\source\repos\PROGRAMANOTA\PROGRAMANOTA\obj\Debug\PROGRAMANOTA.vbprojAssemblyReference.cache
+C:\Users\LITSI\source\repos\PROGRAMANOTA\PROGRAMANOTA\obj\Debug\PROGRAMANOTA.Form1.resources
+C:\Users\LITSI\source\repos\PROGRAMANOTA\PROGRAMANOTA\obj\Debug\PROGRAMANOTA.Resources.resources
+C:\Users\LITSI\source\repos\PROGRAMANOTA\PROGRAMANOTA\obj\Debug\PROGRAMANOTA.vbproj.GenerateResource.cache
+C:\Users\LITSI\source\repos\PROGRAMANOTA\PROGRAMANOTA\obj\Debug\PROGRAMANOTA.vbproj.CoreCompileInputs.cache
+C:\Users\LITSI\source\repos\PROGRAMANOTA\PROGRAMANOTA\obj\Debug\PROGRAMANOTA.exe
+C:\Users\LITSI\source\repos\PROGRAMANOTA\PROGRAMANOTA\obj\Debug\PROGRAMANOTA.xml
+C:\Users\LITSI\source\repos\PROGRAMANOTA\PROGRAMANOTA\obj\Debug\PROGRAMANOTA.pdb
